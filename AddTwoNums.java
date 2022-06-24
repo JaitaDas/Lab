@@ -5,7 +5,7 @@ class Multiplytwonums
           float b = 2.5f;
          
            float multiply = a*b; 
-          System.out.println("The multiplication is: "+ multiply); 
+          System.out.println("The multiplication is: "+ multiply); //print a statement
          
 }
 }
