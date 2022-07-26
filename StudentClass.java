@@ -1,5 +1,5 @@
-//Lab 21 july Question no. 4
-package Lab;
+
+package Array;
 
 
 public class StudentClass{		// main class
@@ -46,11 +46,11 @@ public class StudentClass{		// main class
 		StudentClass[] student = new StudentClass[5];
 		
 		//Instantiating objects of StudentClass and initializing into array
-		student[0]= new StudentClass(101,"Daniel","daniel@gmail.com","Somewhere, Bihar");
-		student[1]= new StudentClass(102,"Luthor","luthor@gmail.com","Somewhere, West Bengal");
-		student[2]= new StudentClass(103,"Micheal","micheal@gmail.com","Somewhere, West Bengal");
-		student[3]= new StudentClass(104,"Franklin","franklin@gmail.com","Somewhere, Hyderabad");
-		student[4]= new StudentClass(105,"Ben","ben@gmail.com","Somewhere, West Bengal");
+		student[0]= new StudentClass(101,"Jaita","jaita@gmail.com","Somewhere, Bihar");
+		student[1]= new StudentClass(102,"Stuti","stutir@gmail.com","Somewhere, West Bengal");
+		student[2]= new StudentClass(103,"Arpan","arpan@gmail.com","Somewhere, West Bengal");
+		student[3]= new StudentClass(104,"Adrika","adrika@gmail.com","Somewhere, Hyderabad");
+		student[4]= new StudentClass(105,"Rupa","rupa@gmail.com","Somewhere, West Bengal");
 		
 		//adding fees values
 		student[0].fees(1064);
