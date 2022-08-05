@@ -1,7 +1,5 @@
 package com;
-/*
- * @author Mrinal Kanti Mishra
- */
+ 
 class TaxCalculator{
 	
 	public double calculateTax(String empName, boolean isIndian, double empSal){	 //tax calculating method
