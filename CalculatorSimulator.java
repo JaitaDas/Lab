@@ -1,7 +1,5 @@
 package com;
-/*
- * @author Mrinal K Mishra
- */
+
 public class CalculateSimulator {
 	public static void main (String[] args) {
 		TaxCalculator tc = new TaxCalculator();		//creating object of tax calculator
