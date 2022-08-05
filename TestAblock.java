@@ -1,8 +1,5 @@
 package com;
-/*
- * @author Mrinal Kanti Mishra
- * 
- */
+
 	import java.util.*;
 
 	public class TestAblock {	
