@@ -10,7 +10,7 @@ public class LinkedListAddAtFront {
 			ll.add(45);
 			// before adding element at front
 			System.out.println(ll);
-			ll.addFirst(6000); // adding an element(1000) in front of the linked list
+			ll.addFirst(6000); // adding an element(6000) in front of the linked list
 			// after adding element at front
 			System.out.println(ll);
 		}
