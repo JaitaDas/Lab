@@ -1,6 +1,4 @@
-/*
-  @author Mrinal Kanti Mishra
- */
+
 package Lab;
 
 import java.util.HashMap;
